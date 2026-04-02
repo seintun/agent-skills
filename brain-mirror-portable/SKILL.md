@@ -7,7 +7,7 @@ description: >-
   Outputs the full self-contained prompt the user can paste into any chat interface.
 ---
 
-# Brain-Mirror Portable
+# Brain-Mirror: Adversarial Thinking Partner
 
 ## When Claude Code Runs This Skill
 
